@@ -8,7 +8,10 @@ If you want to build the MathcingBrackets.hs file:
 	1) open the terminal
 	2) go to the directory of your file
 	3) insert the following command:
+<br>
 	<code>$ ghc -o MatchingBrackets MatchingBrackets.hs</code>
-
+<br>
+<br>
 Then, to run the program you need to type:
+<br>
 <code>$ ./MatchingBrackets</code>
